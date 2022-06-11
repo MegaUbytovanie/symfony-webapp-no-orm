@@ -1,13 +1,12 @@
 {
-    "name": "symfony/webapp-pack",
+    "name": "vkozelka/symfony-webapp-no-orm",
     "type": "symfony-pack",
     "license": "MIT",
-    "description": "A webapp pack on top of the default skeleton",
+    "description": "A webapp pack on top of the default skeleton without Doctrine ORM",
     "require": {
         "sensio/framework-extra-bundle": "^6.1",
         "symfony/asset": "*",
         "symfony/debug-pack": "*",
-        "symfony/doctrine-messenger": "*",
         "symfony/expression-language": "*",
         "symfony/form": "*",
         "symfony/http-client": "*",
@@ -17,7 +16,6 @@
         "symfony/mime": "*",
         "symfony/monolog-bundle": "^3.1",
         "symfony/notifier": "*",
-        "symfony/orm-pack": "*",
         "symfony/process": "*",
         "symfony/profiler-pack": "*",
         "symfony/security-bundle": "*",
