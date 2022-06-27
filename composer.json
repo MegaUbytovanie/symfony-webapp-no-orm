@@ -1,5 +1,5 @@
 {
-    "name": "vkozelka/symfony-webapp-no-orm",
+    "name": "megaubytovanie/symfony-webapp-no-orm",
     "type": "symfony-pack",
     "license": "MIT",
     "description": "A webapp pack on top of the default skeleton without Doctrine ORM",
